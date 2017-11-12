@@ -1,0 +1,10 @@
+C:\Users\Joe\source\repos\SearchLocationOnGoogleMap\SearchLocationOnGoogleMap\bin\Debug\SearchLocationOnGoogleMap.exe.config
+C:\Users\Joe\source\repos\SearchLocationOnGoogleMap\SearchLocationOnGoogleMap\bin\Debug\SearchLocationOnGoogleMap.exe
+C:\Users\Joe\source\repos\SearchLocationOnGoogleMap\SearchLocationOnGoogleMap\bin\Debug\SearchLocationOnGoogleMap.pdb
+C:\Users\Joe\source\repos\SearchLocationOnGoogleMap\SearchLocationOnGoogleMap\obj\Debug\SearchLocationOnGoogleMap.csprojResolveAssemblyReference.cache
+C:\Users\Joe\source\repos\SearchLocationOnGoogleMap\SearchLocationOnGoogleMap\obj\Debug\SearchLocationOnGoogleMap.Form1.resources
+C:\Users\Joe\source\repos\SearchLocationOnGoogleMap\SearchLocationOnGoogleMap\obj\Debug\SearchLocationOnGoogleMap.Properties.Resources.resources
+C:\Users\Joe\source\repos\SearchLocationOnGoogleMap\SearchLocationOnGoogleMap\obj\Debug\SearchLocationOnGoogleMap.csproj.GenerateResource.Cache
+C:\Users\Joe\source\repos\SearchLocationOnGoogleMap\SearchLocationOnGoogleMap\obj\Debug\SearchLocationOnGoogleMap.csproj.CoreCompileInputs.cache
+C:\Users\Joe\source\repos\SearchLocationOnGoogleMap\SearchLocationOnGoogleMap\obj\Debug\SearchLocationOnGoogleMap.exe
+C:\Users\Joe\source\repos\SearchLocationOnGoogleMap\SearchLocationOnGoogleMap\obj\Debug\SearchLocationOnGoogleMap.pdb
